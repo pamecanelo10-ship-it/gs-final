@@ -1,0 +1,12 @@
+1) Requerimietos funcionales y no funcionales
+Los requerimientos funcionales son aquellos que indican que hace el sistema por Ejemplo
+guarda un turno medico.
+Los requerimientos no funcionales son aquellos que indican como se comporta. Ejemplo: tiempo
+de respuesta de una Api, seguridad, etc.
+
+2) Regla de negocio y que diferencia tiene con un requerimiento funcional 
+Una regla de negocio es una directiva, norma o criterio que dice como debe
+funcionar una empresa es decir bajo que condiciones, la diferencia con
+requerimiento funcional es que este dice que debe hacer el sistema.
+
+
