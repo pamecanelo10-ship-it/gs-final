@@ -1,0 +1,7 @@
+QA: aseguramiento de calidad, se encargar de mejorar el desarrollod de software
+para evitar errores. Se enfoca en los procesos
+
+Testing: pruebas de calidad. Se enforca en probar el producto
+
+Ambos son etapas de vida de desarrollo de software.Junto con: diseño, desarrollo
+testing,  deploy y mantenimiento.
