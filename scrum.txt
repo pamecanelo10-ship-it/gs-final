@@ -1,0 +1,18 @@
+El es scrum es un framework ágil, su objetivo es dividir un proyecto grande
+en pequeñas etapas para poder avanzar.
+Artefactos
+Los artefactos son: product backlog, sprint backlog, incremento
+
+Roles
+product owner: representa el cliente
+scrum master: ayuda al equipo
+team: equipo encargado de contituir el producto
+
+Eventos
+
+Sprint plannig: que se hara durante el spring
+daily scrum: reunion diaria
+spring review: mostrar el trabajo realizado
+spring retrospective: Analizar que salio bien o mal
+
+Un spring es un ciclo de trabajo que puede durar una semana, un mes, etc.
